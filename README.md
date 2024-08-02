@@ -20,14 +20,14 @@ He estudiado en distintas tecnologías del sector para dedicarme a desarrollar a
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UC74-E0hTcscII18YI9K7HwQ)
+[![YouTube](https://www.youtube.com/channel/UC74-E0hTcscII18YI9K7HwQ)
 </br>
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]()
+[![Discord]()]()
 </br>
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/johansu.u/)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/Johan.Espitia.117)
+[![Instagram](https://www.instagram.com/johansu.u/)
+[![Facebook]()](https://www.facebook.com/Johan.Espitia.117)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
+[![LinkedIn]()]()
 
 # Algunos proyectos de la comunidad
 
