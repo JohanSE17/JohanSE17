@@ -57,5 +57,5 @@ He estudiado en distintas tecnologías del sector para dedicarme a desarrollar a
 ## Contacto y apoyo:
 </br>
 
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:c702ej09@hotmail.com)
+[![Email]((respuesta_lenta))](mailto:c702ej09@hotmail.com)
 </br>
