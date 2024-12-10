@@ -2,7 +2,7 @@
   
 # Johan Espitia | Ingeniero de Sistemas 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=435&lines=Entusiasta+de+la+Tecnolog%C3%ADa;Desarrollador+de+Apps+M%C3%B3viles;Aprendizaje+Continuo;Construyendo+el+Futuro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=435&lines=Constante+Aprendizaje+de+la+Tecnolog%C3%ADa;Desarrollador+y+Administrador+de+Apps+M%C3%B3viles;Arduo+Aprendizaje;Construyendo+un+Mejor+Futuro)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/JohanSE17/JohanSE17/main/assets/banner.gif" width="100%" alt="Banner">
 
@@ -31,9 +31,9 @@ Soy un Desarrollador de Tecnología especializado en aplicaciones móviles y sis
 const habilidades = {
     móvil: ["Android", "iOS", "React Native"],
     frontend: ["React", "JavaScript", "HTML5", "CSS3"],
-    backend: ["Node.js", "Python", "Java"],
+    backend: ["Node.js", "Python", "Java", "C++"],
     baseDeDatos: ["MongoDB", "MySQL", "PostgreSQL"],
-    herramientas: ["Git", "Docker", "VS Code", "Postman"]
+    herramientas: ["Git", "Docker", "VS Code", "Postman". "Kubernets"]
 };
 ```
 
@@ -62,7 +62,7 @@ const habilidades = {
 
 <div align="center">
 
-[![Tarjeta de Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=JohanSE17&repo=your-best-repo&theme=radical&locale=es)](https://github.com/JohanSE17/your-best-repo)
+[![Tarjeta de Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=JohanSE17&repo=your-best-repo&theme=radical&locale=es)](https://github.com/JohanSE17/JohanSE17/slides.md)
 
 </div>
 
