@@ -12,7 +12,7 @@
 
 > *"Construyendo las soluciones del mañana, una línea de código a la vez"*
 
-Soy un Desarrollador de Tecnología especializado en aplicaciones móviles y sistemas de información. Mi pasión es crear soluciones innovadoras que marquen la diferencia en la vida de las personas.
+Soy un Desarrollador de Tecnología especializado en aplicaciones informáticas y sistemas de información. Mi pasión es crear soluciones innovadoras que marquen la diferencia en la vida de las personas y el medio ambiente.
 
 <details>
 <summary>🌟 Más sobre mi trayectoria</summary>
@@ -62,7 +62,7 @@ const habilidades = {
 
 <div align="center">
 
-[![Tarjeta de Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=JohanSE17&repo=JohanSE17&theme=radical&locale=es)](https://github.com/JohanSE17/JohanSE17/slides.md)
+[![Tarjeta de Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=JohanSE17&repo=JohanSE17&theme=radical&locale=es)](https://github.com/JohanSE17/JohanSE17)
 
 </div>
 
