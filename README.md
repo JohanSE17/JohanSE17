@@ -2,7 +2,7 @@
   
 # Johan Espitia | Ingeniero de Sistemas 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=435&lines=Constante+Aprendizaje+de+la+Tecnolog%C3%ADa;Desarrollador+y+Administrador+de+Apps+M%C3%B3viles;Arduo+Aprendizaje;Construyendo+un+Mejor+Futuro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=430&lines=Constante+Aprendizaje+de+la+Tecnolog%C3%ADa;Desarrollador+y+Administrador+de+Apps+M%C3%B3viles;Arduo+Aprendizaje;Construyendo+un+Mejor+Futuro)](https://github.com/JohanSE17/JohanSE17)
 
 <img src="https://raw.githubusercontent.com/JohanSE17/JohanSE17/main/assets/banner.gif" width="100%" alt="Banner">
 
