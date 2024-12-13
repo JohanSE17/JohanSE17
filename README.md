@@ -68,19 +68,19 @@ const habilidades = {
 
 
 <a href="https://htmlpreview.github.io/?https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge.html">
-  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview.png?raw=true" alt="Badge Interactivo" width="300" />
+  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview.png?raw=true" alt="Badge Interactivo" width="117" />
 </a>
 
 <a href="https://htmlpreview.github.io/?https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/Badge_two.html">
-  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_two.png?raw=true" alt="Badge Interactivo" width="300" />
+  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_two.png?raw=true" alt="Badge Interactivo" width="117" />
  </a>
 
 <a href="https://htmlpreview.github.io/?https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/Badge_four.html">
- <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_four.png?raw=true" alt="Badge Interactivo" width="300" />
+ <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_four.png?raw=true" alt="Badge Interactivo" width="117" />
  </a>
 
 <a href="https://htmlpreview.github.io/?https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/Badge_Three.html">
-  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_three.png?raw=true" alt="Badge Interactivo" width="300" />
+  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_three.png?raw=true" alt="Badge Interactivo" width="117" />
 </a>
 
 </div>
