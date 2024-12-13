@@ -63,7 +63,8 @@ const habilidades = {
 <div align="center">
 
 [![Tarjeta de Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=JohanSE17&repo=JohanSE17&theme=radical&locale=es)](https://github.com/JohanSE17/JohanSE17)
-[!<iframe src="https://api.eu.badgr.io/public/assertions/Xb4PxsvcQgq_RWadzoQlHA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=c702ej05%40hotmail.com" title="Badge: AGENTE DE APRENDIZAJE ACTIVO - DISEÑO DE ANIMACIÓN DIGITAL - BÁSICO" style="width: 330px; height: 191px; border: 0px;"></iframe>]
+[![Badge: AGENTE DE APRENDIZAJE ACTIVO](https://api.eu.badgr.io/public/assertions/Xb4PxsvcQgq_RWadzoQlHA/image)](https://api.eu.badgr.io/public/assertions/Xb4PxsvcQgq_RWadzoQlHA?embedVersion=1&embedWidth=330&embedHeight=191)
+
 
 </div>
 
