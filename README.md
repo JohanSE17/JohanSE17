@@ -77,8 +77,9 @@ const habilidades = {
 <a href="https://api.eu.badgr.io/public/assertions/xTPe5fT8Q0uopAbMasdynQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=c702ej05%40hotmail.com">
  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_four.png?raw=true" alt="Badge Interactivo" width="300" />
  </a>
+<iframe src="https://api.eu.badgr.io/public/assertions/EbK3Ue2WSWivA0IthBJ7Kw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=c702ej05%40hotmail.com" title="Badge: AGENTE AUTOCONCIENCIA SOCIOEMOCIONAL - HABILIDADES SOCIOEMOCIONALES" style="width: 330px; height: 191px; border: 0px;"></iframe>
 
-<a href="https://api.eu.badgr.io/public/assertions/EbK3Ue2WSWivA0IthBJ7Kw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=c702ej05%40hotmail.com">
+<a href="https://api.eu.badgr.io/public/assertions/EbK3Ue2WSWivA0IthBJ7Kw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=c702ej05%40hotmail.com" title="Badge: AGENTE AUTOCONCIENCIA SOCIOEMOCIONAL - HABILIDADES SOCIOEMOCIONALES" style="width: 330px; height: 191px; border: 0px;">
   <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_three.png?raw=true" alt="Badge Interactivo" width="300" />
 </a>
 
