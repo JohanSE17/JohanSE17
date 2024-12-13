@@ -64,14 +64,22 @@ const habilidades = {
 
 [![Tarjeta de Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=JohanSE17&repo=JohanSE17&theme=radical&locale=es)](https://github.com/JohanSE17/JohanSE17)
 
-## Logros Badge Interactivo
-<a href="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge.html">
+## 🌌 Logros Badge Interactivo
+
+<a href="https://api.eu.badgr.io/public/assertions/A8ojk0L2TSyv251K4dZ5oQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=c702ej05%40hotmail.com">
   <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview.png?raw=true" alt="Badge Interactivo" width="300" />
 </a>
-<a href="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/Badge_two.html">
-  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_two.png?raw=true" alt="Badge Interactivo" width="300" />
-  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_four.png?raw=true" alt="Badge Interactivo" width="300" />
 
+<a href="https://api.eu.badgr.io/public/assertions/QHlpqpHgRB2xFSzGFgCg9w?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=c702ej05%40hotmail.com">
+  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_two.png?raw=true" alt="Badge Interactivo" width="300" />
+ </a>
+
+<a href="https://api.eu.badgr.io/public/assertions/xTPe5fT8Q0uopAbMasdynQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=c702ej05%40hotmail.com">
+ <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_four.png?raw=true" alt="Badge Interactivo" width="300" />
+ </a>
+
+<a href="https://api.eu.badgr.io/public/assertions/EbK3Ue2WSWivA0IthBJ7Kw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=c702ej05%40hotmail.com">
+  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_three.png?raw=true" alt="Badge Interactivo" width="300" />
 </a>
 
 </div>
