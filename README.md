@@ -70,6 +70,8 @@ const habilidades = {
 </a>
 <a href="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/Badge_two.html">
   <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_two.png?raw=true" alt="Badge Interactivo" width="300" />
+  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_four.png?raw=true" alt="Badge Interactivo" width="300" />
+
 </a>
 
 </div>
