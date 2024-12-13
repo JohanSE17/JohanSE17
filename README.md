@@ -63,7 +63,10 @@ const habilidades = {
 <div align="center">
 
 [![Tarjeta de Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=JohanSE17&repo=JohanSE17&theme=radical&locale=es)](https://github.com/JohanSE17/JohanSE17)
+
+## Logros Badge Interactivo
 [![Badge Interactivo](https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/badge-preview.png)](https://htmlpreview.github.io/?https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/badge.html)
+
 
 
 </div>
