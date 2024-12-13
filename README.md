@@ -63,8 +63,7 @@ const habilidades = {
 <div align="center">
 
 [![Tarjeta de Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=JohanSE17&repo=JohanSE17&theme=radical&locale=es)](https://github.com/JohanSE17/JohanSE17)
-[![Badge: AGENTE DE APRENDIZAJE ACTIVO](https://api.eu.badgr.io/public/assertions/Xb4PxsvcQgq_RWadzoQlHA/image)](https://api.eu.badgr.io/public/assertions/Xb4PxsvcQgq_RWadzoQlHA?embedVersion=1&embedWidth=330&embedHeight=191)
-
+[Ver Badge Interactivo](https://htmlpreview.github.io/?https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/badge.html)
 
 </div>
 
