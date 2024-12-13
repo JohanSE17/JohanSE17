@@ -65,11 +65,11 @@ const habilidades = {
 [![Tarjeta de Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=JohanSE17&repo=JohanSE17&theme=radical&locale=es)](https://github.com/JohanSE17/JohanSE17)
 
 ## Logros Badge Interactivo
-<a href="https://htmlpreview.github.io/?https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/badge.html">
-  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/badge-preview.png?raw=true" alt="Badge Interactivo" width="300" />
+<a href="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge.html">
+  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview.png?raw=true" alt="Badge Interactivo" width="300" />
 </a>
-<a href="https://htmlpreview.github.io/?https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge_two.html">
-  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/badge-preview_two.png?raw=true" alt="Badge Interactivo" width="300" />
+<a href="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/Badge_two.html">
+  <img src="https://github.com/JohanSE17/JohanSE17/blob/JOHAN17/Badge/badge-preview_two.png?raw=true" alt="Badge Interactivo" width="300" />
 </a>
 
 </div>
