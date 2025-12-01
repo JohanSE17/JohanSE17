@@ -1,6 +1,6 @@
 <div align="center">
   
-# Johan Espitia | Ingeniero de Sistemas 🚀
+# Johan Espitia | Ingeniero de Software 🚀
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=597&lines=Constante+Aprendizaje+de+la+Tecnolog%C3%ADa;Desarrollador+y+Administrador+de+Apps+Informáticas;Arduo+Aprendizaje;Construyendo+un+Mejor+Futuro)](https://github.com/JohanSE17/JohanSE17)
 
@@ -12,7 +12,7 @@
 
 > *"Construyendo las soluciones del mañana, una línea de código a la vez"*
 
-Soy un Desarrollador de Tecnología especializado en aplicaciones informáticas y sistemas de información. Mi pasión es crear soluciones innovadoras que marquen la diferencia en la vida de las personas y el medio ambiente.
+Desarrollador de Tecnología especializado en aplicaciones informáticas y sistemas de información. Me pasiona crear soluciones innovadoras que marquen la diferencia en la vida de las personas y el medio ambiente.
 
 <details>
 <summary>🌟 Más sobre mi trayectoria</summary>
