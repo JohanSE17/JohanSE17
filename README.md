@@ -41,8 +41,8 @@ const habilidades = {
 
 <div align="center">
   
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohanSE17&show_icons=true&theme=radical&locale=es)
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanSE17&layout=compact&theme=radical&locale=es)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohanSE17&show_icons=true&theme=radical&locale=es)]
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanSE17&layout=compact&theme=radical&locale=es)]
 
 </div>
 
@@ -99,6 +99,6 @@ const habilidades = {
   
 ![Visitas al Perfil](https://komarev.com/ghpvc/?username=JohanSE17&color=blueviolet&label=Visitas+al+Perfil)
 
-*"La única manera de hacer un gran trabajo es amar lo que haces."* - Steve Jobs
+*"La única manera de hacer un gran trabajo es amar lo que haces."* Steve Jobs
 
 </div>
